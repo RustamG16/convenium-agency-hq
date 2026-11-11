@@ -1,0 +1,38 @@
+[
+  {
+    "id": "beauty",
+    "title": "A clearer next appointment",
+    "url": "./assets/campaigns/beauty.png",
+    "origin": "AI-generated concept",
+    "provider": "Built-in ImageGen",
+    "createdAt": "2026-11-08",
+    "status": "Draft · human review required",
+    "audience": "Beauty & Barber",
+    "rights": "Generic synthetic still life; no customer identity or performance proof. Review intended usage and disclosure before publication.",
+    "alt": "Burgundy comb and shaving brush beside a blank cream appointment card."
+  },
+  {
+    "id": "gastro",
+    "title": "Bring your menu into focus",
+    "url": "./assets/campaigns/gastro.png",
+    "origin": "AI-generated concept",
+    "provider": "Built-in ImageGen",
+    "createdAt": "2026-11-08",
+    "status": "Draft · human review required",
+    "audience": "Gastronomy",
+    "rights": "Generic synthetic still life; no customer identity or performance proof. Review intended usage and disclosure before publication.",
+    "alt": "Blank cream menu card on a burgundy plate in warm afternoon light."
+  },
+  {
+    "id": "agency",
+    "title": "Open the next conversation",
+    "url": "./assets/campaigns/agency.png",
+    "origin": "AI-generated concept",
+    "provider": "Built-in ImageGen",
+    "createdAt": "2026-11-08",
+    "status": "Draft · human review required",
+    "audience": "Local businesses",
+    "rights": "Generic synthetic still life; no customer identity or performance proof. Review intended usage and disclosure before publication.",
+    "alt": "Burgundy doorway and blank cream contact card on a warm paper background."
+  }
+]

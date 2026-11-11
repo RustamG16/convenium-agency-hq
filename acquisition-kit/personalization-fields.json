@@ -1,0 +1,42 @@
+{
+  "status": "DRAFT—do not send with unresolved placeholders",
+  "required": [
+    "business_name",
+    "contact_greeting",
+    "verified_observation",
+    "business_specific_context",
+    "proposed_improvement",
+    "concept_url",
+    "concept_image_url",
+    "concept_alt",
+    "offer_scope",
+    "one_question_cta",
+    "sender_name",
+    "sender_business_details"
+  ],
+  "internal_only": [
+    "source_url",
+    "source_checked_at",
+    "observed_vs_hypothesis",
+    "recipient_eligibility_evidence",
+    "outreach_pause_checked",
+    "asset_rights",
+    "reviewer",
+    "approval_version",
+    "target_account"
+  ],
+  "optional": [
+    "actual_video_url",
+    "actual_video_duration"
+  ],
+  "rules": [
+    "Use only business-relevant personalization. No private interests or sensitive traits.",
+    "Each observation and claim needs dated evidence.",
+    "Use one prospect, one concept direction, one question CTA.",
+    "The generated image must exist and be included in the rendered draft.",
+    "Prefer a linked thumbnail for an actual recorded video; omit video block if no recording exists.",
+    "Always include https://convenium.at/ and verify all final URLs.",
+    "Unknown approved price/scope stays omitted or unresolved; never auto-fill.",
+    "No tracking pixels, recipient emails in URLs, autoplay, executable files or automatic sends."
+  ]
+}

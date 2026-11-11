@@ -1,0 +1,102 @@
+[
+  {
+    "id": "beauty",
+    "name": "Beauty & Barber",
+    "subject": "Eine Idee für [Betrieb]",
+    "initial": "Guten Tag [Name],\n\nbei [Quelle / Datum] ist mir Folgendes aufgefallen: [verifizierte Beobachtung zu Leistungen, Standort oder Buchungsweg].\n\nBei Convenium unterstützen wir lokale Betriebe dabei, Leistungen und den bestehenden Buchungsweg klar zusammenzuführen. Ob das für Sie sinnvoll ist, würden wir gern anhand Ihrer Ziele klären.\n\nWäre ein kurzes Gespräch dazu passend?\n\nFreundliche Grüße\n[Absender] · Convenium\n[Geschäftliche Kontaktdaten / Pflichtangaben]\n\nFalls Sie keine weiteren Angebotsnachrichten wünschen, genügt eine kurze Antwort.",
+    "followup": "Guten Tag [Name],\n\nwie am [bestätigtes Gesprächsdatum] vereinbart, melde ich mich zu [vereinbartes Thema]. [Verifizierter nächster Schritt / freigegebener Entwurf].\n\nPasst [vereinbarter oder vorgeschlagener nächster Schritt]?\n\nFreundliche Grüße\n[Absender] · Convenium",
+    "proposal": "Auf Grundlage unseres bestätigten Gesprächs: [Ziel], [Leistungsumfang], [Abnahmen], [Zeitplan], [freigegebene Preise, Umsatzsteuer und laufende Kosten]. Vorschlag, bis beide Seiten ausdrücklich zustimmen. Keine Reservierung oder Beauftragung unterstellen.",
+    "discovery": [
+      "Was möchten Sie am aktuellen Auftritt verbessern?",
+      "Wie kommen Anfragen heute bei Ihnen an?",
+      "Welcher bestehende Kontakt- oder Buchungsweg soll bleiben?",
+      "Wer prüft Inhalte und Bildrechte?",
+      "Welcher Umfang wäre für einen ersten Schritt sinnvoll?"
+    ],
+    "objections": {
+      "Wir haben schon eine Website.": "Dann sollten wir zuerst klären, ob überhaupt eine konkrete Lücke besteht. [Verifizierte Beobachtung] wäre ein möglicher Gesprächspunkt.",
+      "Was kostet das?": "Ein verbindliches Angebot hängt vom vereinbarten Umfang ab. [Freigegebener Preis / Leistungsumfang] ergänzen wir nach Prüfung.",
+      "Kein Interesse.": "Danke für die Rückmeldung. Wir respektieren das und vermerken, dass keine weitere Ansprache gewünscht ist."
+    }
+  },
+  {
+    "id": "gastro",
+    "name": "Gastronomy",
+    "subject": "Eine Idee für [Betrieb]",
+    "initial": "Guten Tag [Name],\n\nbei [Quelle / Datum] ist mir Folgendes aufgefallen: [verifizierte Beobachtung zu Speisekarte, Öffnungszeiten oder Reservierung].\n\nBei Convenium unterstützen wir lokale Betriebe dabei, Speisekarte, Öffnungszeiten und den bestehenden Reservierungsweg übersichtlich zu verbinden. Ob das für Sie sinnvoll ist, würden wir gern anhand Ihrer Ziele klären.\n\nWäre ein kurzes Gespräch dazu passend?\n\nFreundliche Grüße\n[Absender] · Convenium\n[Geschäftliche Kontaktdaten / Pflichtangaben]\n\nFalls Sie keine weiteren Angebotsnachrichten wünschen, genügt eine kurze Antwort.",
+    "followup": "Guten Tag [Name],\n\nwie am [bestätigtes Gesprächsdatum] vereinbart, melde ich mich zu [vereinbartes Thema]. [Verifizierter nächster Schritt / freigegebener Entwurf].\n\nPasst [vereinbarter oder vorgeschlagener nächster Schritt]?\n\nFreundliche Grüße\n[Absender] · Convenium",
+    "proposal": "Auf Grundlage unseres bestätigten Gesprächs: [Ziel], [Leistungsumfang], [Abnahmen], [Zeitplan], [freigegebene Preise, Umsatzsteuer und laufende Kosten]. Vorschlag, bis beide Seiten ausdrücklich zustimmen. Keine Reservierung oder Beauftragung unterstellen.",
+    "discovery": [
+      "Was möchten Sie am aktuellen Auftritt verbessern?",
+      "Wie kommen Anfragen heute bei Ihnen an?",
+      "Welcher bestehende Kontakt- oder Buchungsweg soll bleiben?",
+      "Wer prüft Inhalte und Bildrechte?",
+      "Welcher Umfang wäre für einen ersten Schritt sinnvoll?"
+    ],
+    "objections": {
+      "Wir haben schon eine Website.": "Dann sollten wir zuerst klären, ob überhaupt eine konkrete Lücke besteht. [Verifizierte Beobachtung] wäre ein möglicher Gesprächspunkt.",
+      "Was kostet das?": "Ein verbindliches Angebot hängt vom vereinbarten Umfang ab. [Freigegebener Preis / Leistungsumfang] ergänzen wir nach Prüfung.",
+      "Kein Interesse.": "Danke für die Rückmeldung. Wir respektieren das und vermerken, dass keine weitere Ansprache gewünscht ist."
+    }
+  },
+  {
+    "id": "retail",
+    "name": "Retail",
+    "subject": "Eine Idee für [Betrieb]",
+    "initial": "Guten Tag [Name],\n\nbei [Quelle / Datum] ist mir Folgendes aufgefallen: [verifizierte Beobachtung zu Sortiment, Standort oder Anfrageweg].\n\nBei Convenium unterstützen wir lokale Betriebe dabei, Sortiment, Standort und Kontaktmöglichkeiten verständlich darzustellen. Ob das für Sie sinnvoll ist, würden wir gern anhand Ihrer Ziele klären.\n\nWäre ein kurzes Gespräch dazu passend?\n\nFreundliche Grüße\n[Absender] · Convenium\n[Geschäftliche Kontaktdaten / Pflichtangaben]\n\nFalls Sie keine weiteren Angebotsnachrichten wünschen, genügt eine kurze Antwort.",
+    "followup": "Guten Tag [Name],\n\nwie am [bestätigtes Gesprächsdatum] vereinbart, melde ich mich zu [vereinbartes Thema]. [Verifizierter nächster Schritt / freigegebener Entwurf].\n\nPasst [vereinbarter oder vorgeschlagener nächster Schritt]?\n\nFreundliche Grüße\n[Absender] · Convenium",
+    "proposal": "Auf Grundlage unseres bestätigten Gesprächs: [Ziel], [Leistungsumfang], [Abnahmen], [Zeitplan], [freigegebene Preise, Umsatzsteuer und laufende Kosten]. Vorschlag, bis beide Seiten ausdrücklich zustimmen. Keine Reservierung oder Beauftragung unterstellen.",
+    "discovery": [
+      "Was möchten Sie am aktuellen Auftritt verbessern?",
+      "Wie kommen Anfragen heute bei Ihnen an?",
+      "Welcher bestehende Kontakt- oder Buchungsweg soll bleiben?",
+      "Wer prüft Inhalte und Bildrechte?",
+      "Welcher Umfang wäre für einen ersten Schritt sinnvoll?"
+    ],
+    "objections": {
+      "Wir haben schon eine Website.": "Dann sollten wir zuerst klären, ob überhaupt eine konkrete Lücke besteht. [Verifizierte Beobachtung] wäre ein möglicher Gesprächspunkt.",
+      "Was kostet das?": "Ein verbindliches Angebot hängt vom vereinbarten Umfang ab. [Freigegebener Preis / Leistungsumfang] ergänzen wir nach Prüfung.",
+      "Kein Interesse.": "Danke für die Rückmeldung. Wir respektieren das und vermerken, dass keine weitere Ansprache gewünscht ist."
+    }
+  },
+  {
+    "id": "services",
+    "name": "Services",
+    "subject": "Eine Idee für [Betrieb]",
+    "initial": "Guten Tag [Name],\n\nbei [Quelle / Datum] ist mir Folgendes aufgefallen: [verifizierte Beobachtung zu Leistungen oder Anfrageweg].\n\nBei Convenium unterstützen wir lokale Betriebe dabei, Leistungen und den Weg zur passenden Anfrage klar darzustellen. Ob das für Sie sinnvoll ist, würden wir gern anhand Ihrer Ziele klären.\n\nWäre ein kurzes Gespräch dazu passend?\n\nFreundliche Grüße\n[Absender] · Convenium\n[Geschäftliche Kontaktdaten / Pflichtangaben]\n\nFalls Sie keine weiteren Angebotsnachrichten wünschen, genügt eine kurze Antwort.",
+    "followup": "Guten Tag [Name],\n\nwie am [bestätigtes Gesprächsdatum] vereinbart, melde ich mich zu [vereinbartes Thema]. [Verifizierter nächster Schritt / freigegebener Entwurf].\n\nPasst [vereinbarter oder vorgeschlagener nächster Schritt]?\n\nFreundliche Grüße\n[Absender] · Convenium",
+    "proposal": "Auf Grundlage unseres bestätigten Gesprächs: [Ziel], [Leistungsumfang], [Abnahmen], [Zeitplan], [freigegebene Preise, Umsatzsteuer und laufende Kosten]. Vorschlag, bis beide Seiten ausdrücklich zustimmen. Keine Reservierung oder Beauftragung unterstellen.",
+    "discovery": [
+      "Was möchten Sie am aktuellen Auftritt verbessern?",
+      "Wie kommen Anfragen heute bei Ihnen an?",
+      "Welcher bestehende Kontakt- oder Buchungsweg soll bleiben?",
+      "Wer prüft Inhalte und Bildrechte?",
+      "Welcher Umfang wäre für einen ersten Schritt sinnvoll?"
+    ],
+    "objections": {
+      "Wir haben schon eine Website.": "Dann sollten wir zuerst klären, ob überhaupt eine konkrete Lücke besteht. [Verifizierte Beobachtung] wäre ein möglicher Gesprächspunkt.",
+      "Was kostet das?": "Ein verbindliches Angebot hängt vom vereinbarten Umfang ab. [Freigegebener Preis / Leistungsumfang] ergänzen wir nach Prüfung.",
+      "Kein Interesse.": "Danke für die Rückmeldung. Wir respektieren das und vermerken, dass keine weitere Ansprache gewünscht ist."
+    }
+  },
+  {
+    "id": "agency",
+    "name": "Convenium acquisition",
+    "subject": "Eine Idee für [Betrieb]",
+    "initial": "Guten Tag [Name],\n\nbei [Quelle / Datum] ist mir Folgendes aufgefallen: [konkrete Beobachtung mit Quelle und Datum].\n\nBei Convenium unterstützen wir lokale Betriebe dabei, Ihren digitalen Auftritt auf einen klaren nächsten Schritt auszurichten. Ob das für Sie sinnvoll ist, würden wir gern anhand Ihrer Ziele klären.\n\nWäre ein kurzes Gespräch dazu passend?\n\nFreundliche Grüße\n[Absender] · Convenium\n[Geschäftliche Kontaktdaten / Pflichtangaben]\n\nFalls Sie keine weiteren Angebotsnachrichten wünschen, genügt eine kurze Antwort.",
+    "followup": "Guten Tag [Name],\n\nwie am [bestätigtes Gesprächsdatum] vereinbart, melde ich mich zu [vereinbartes Thema]. [Verifizierter nächster Schritt / freigegebener Entwurf].\n\nPasst [vereinbarter oder vorgeschlagener nächster Schritt]?\n\nFreundliche Grüße\n[Absender] · Convenium",
+    "proposal": "Auf Grundlage unseres bestätigten Gesprächs: [Ziel], [Leistungsumfang], [Abnahmen], [Zeitplan], [freigegebene Preise, Umsatzsteuer und laufende Kosten]. Vorschlag, bis beide Seiten ausdrücklich zustimmen. Keine Reservierung oder Beauftragung unterstellen.",
+    "discovery": [
+      "Was möchten Sie am aktuellen Auftritt verbessern?",
+      "Wie kommen Anfragen heute bei Ihnen an?",
+      "Welcher bestehende Kontakt- oder Buchungsweg soll bleiben?",
+      "Wer prüft Inhalte und Bildrechte?",
+      "Welcher Umfang wäre für einen ersten Schritt sinnvoll?"
+    ],
+    "objections": {
+      "Wir haben schon eine Website.": "Dann sollten wir zuerst klären, ob überhaupt eine konkrete Lücke besteht. [Verifizierte Beobachtung] wäre ein möglicher Gesprächspunkt.",
+      "Was kostet das?": "Ein verbindliches Angebot hängt vom vereinbarten Umfang ab. [Freigegebener Preis / Leistungsumfang] ergänzen wir nach Prüfung.",
+      "Kein Interesse.": "Danke für die Rückmeldung. Wir respektieren das und vermerken, dass keine weitere Ansprache gewünscht ist."
+    }
+  }
+]

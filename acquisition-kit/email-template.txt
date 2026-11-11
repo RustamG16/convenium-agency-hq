@@ -1,0 +1,21 @@
+Betreff: Eine Website-Idee für {{business_name}}
+
+Guten Tag {{contact_greeting}},
+
+bei {{business_name}} ist mir {{verified_observation}} aufgefallen. {{business_specific_context}}
+
+Ich habe eine unverbindliche, KI-generierte Website-Idee vorbereitet: {{proposed_improvement}}. Sie ist nicht beauftragt und zeigt keine bereits umgesetzte Website.
+
+Konzept und Bild: {{concept_url}}
+{{optional_actual_video_sentence_and_url}}
+
+{{offer_scope}}
+{{one_question_cta}}
+
+Mehr zu Convenium: https://convenium.at/
+
+Freundliche Grüße
+{{sender_name}} · Convenium
+{{sender_business_details}}
+
+Falls Sie keine weiteren Angebotsnachrichten wünschen, genügt eine kurze Antwort.
